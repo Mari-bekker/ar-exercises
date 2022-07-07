@@ -11,7 +11,7 @@ puts "----------"
 # Your code goes here ...
 
 
-@store1.employees.create(first_name: "John", last_name: "Doe", hourly_rate: 10)
+@store1.employees.create(first_name: "John", last_name: "Doe", hourly_rate: 20)
 @store1.employees.create(first_name: "Karl", last_name: "Marx", hourly_rate: 20)
 @store2.employees.create(first_name: "Bob", last_name: "Dylan", hourly_rate: 30)
 @store2.employees.create(first_name: "Justin", last_name: "Trudeau", hourly_rate: 40)
